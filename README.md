@@ -1,6 +1,6 @@
-# Epidemic Simulation in NYC Using Cellular Automaton Infection Model
+# Epidemic Simulation Using Cellular Automaton Infection Model
 
-This Python project simulates the spread of infection in a 2D grid using a cellular automaton model. The simulation consists of cells that can be in one of three states: Susceptible (S), Infected (I), or Resistant (R). The simulation progresses through discrete time steps, with cells interacting with their neighboring cells.
+This Python project simulates the spread of infection on a 2D grid of New York City using a cellular automaton model. The simulation consists of cells that can be in one of three states: Susceptible (S), Infected (I), or Resistant (R). The simulation progresses through discrete time steps, with cells interacting with their neighboring cells.
 
 ## Features
 - **Cell States**: Cells can be susceptible, infected, or resistant.
